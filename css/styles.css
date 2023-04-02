@@ -1,0 +1,15 @@
+  @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap');
+
+  .carousel-caption {
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 15px;
+  }
+
+  .hero {
+    margin-top: 50px;
+  }
+
+  .subtitle {
+    font-family: 'Rubik', sans-serif;
+    color: rgb(57, 99, 213);
+  }
